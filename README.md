@@ -23,6 +23,6 @@ This repository contains an end-to-end Jupyter Notebook that breaks down the mat
 ## 🚀 How to Run Locally
 
 1. Clone this repository:
-   ```bash
+ ```bash
    git clone [https://github.com/RimeeAwasthi01/Comprehensive-KNN-Implementation.git](https://github.com/RimeeAwasthi01/Comprehensive-KNN-Implementation.git)
-   cd KNN-Deep-Dive
+   cd Comprehensive-KNN-Implementation
